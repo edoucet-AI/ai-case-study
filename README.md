@@ -28,7 +28,7 @@
 <p>In the online grocery market, Instacart currently holds 21.6% of the market share.  Instacart however, has a few major competitors.  Walmart and Amazon own 25.7% and 22.0% of the market share respectively based on sales in 2024.</p> 
 
 <p align="center">
-  <img src="AI Case Study_Market Share By Company.JPG" alt="Updo demo" width="1000"/>
+  <img src="AI Case Study_Market Share By Company.JPG" alt="Market Share By Company" width="1000"/>
 </p>  
 
 ## Results
