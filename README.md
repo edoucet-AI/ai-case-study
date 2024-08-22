@@ -25,13 +25,13 @@
 ## Landscape
 <p>Instacart is a North American leader in online grocery delivery and is considered to be in the grocery industry. Instacart however has been expanding its brand by offering services like shoppable ads through its partnership with media platforms like YouTube to extend retail media data.  Instacart’s partnership with YouTube allows for shoppable ads to be created on YouTube that brands use to drive same-day purchases.   The Grocery industry has capitalized on some cutting-edge innovations and trends over the last 5 to 10 years.  In addition to online shopping, the grocery industry is also trending towards an overall improved in-store experience by leveraging AI technology like smart carts, digital price tags, and self-checkout.  Technology has helped grocery stores better serve customers by implementing automated inventory management systems that help meet consumer demand and more accurately predict consumer purchasing trends.</p> 
 
-<p>In the online grocery market, Instacart currently holds 21.6% of the market share.  Instacart however, has a few major competitors.  Walmart and Amazon own 25.7% and 22.0% of the market share respectively based on sales in 2024.</p>  
+<p>In the online grocery market, Instacart currently holds 21.6% of the market share.  Instacart however, has a few major competitors.  Walmart and Amazon own 25.7% and 22.0% of the market share respectively based on sales in 2024.</p> ![Test!](/ai-case-study/
 
 ## Results
 <p>Instacart’s AI Caper Carts technology is shifting the in-store shopping experience and expectations of shoppers. The in-store technology is impacting consumers' grocery shopping spending and loyalty.  Grocers like Schnucks and Kroger report that the use of the Caper Cart technology in their stores has resulted in larger purchases by consumers.  According to data from the PYMNTS Intelligence study “2024 Global Digital Shopping Index: U.S. Edition,” created in collaboration with Visa Acceptance Solutions. The report, which drew from a survey of more than 2,400 United States consumers, found that approximately 20% of consumers surveyed prefer to shop in stores with the assistance of digital technologies.</p> 
 
-<p>Some of the core metrics that companies in this field use to measure success include average basket size, net promoter score, and time shoppers spend shopping.  Instacart’s Caper Cart technology performance in these core metrics is impressive.  Caper Cart technology increases the grocer’s basket size by 18%, boasts a net promoter score of 70+, and has a ~18% faster in-store experience.</p> 
-![Testing](AI Case Study_Market Share By Company.JPG "Market Share By Company")
+<p>Some of the core metrics that companies in this field use to measure success include average basket size, net promoter score, and time shoppers spend shopping.  Instacart’s Caper Cart technology performance in these core metrics is impressive.  Caper Cart technology increases the grocer’s basket size by 18%, boasts a net promoter score of 70+, and has a ~18% faster in-store experience. 
+![Testing!](ai-case-study/AI Case Study_Market Share By Company.JPG "Market Share By Company")</p>
 
 ## Recommendations
 
