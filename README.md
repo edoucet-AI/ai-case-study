@@ -10,10 +10,10 @@
 
 <p>The target audience for Instacart’s customer base includes young and middle-aged adults, young mothers, and internet-savvy retirees.  Instacart’s customer demographics are characterized as:  
 <ul>
-<li>80% of Instacart customers are women</li>
-<li>50% are between the ages of 25-44, while 30% are aged 55-75</li>
-<li>60% live one mile or less from a grocery store</li>
-<li>40% are parents, while 15% are retired</li>
+<li><em><strong>80%</strong></em> of Instacart customers are women</li>
+<li><em><strong>50%</strong></em> are between the ages of 25-44, while 30% are aged 55-75</li>
+<li><em><strong>60%</strong></em> live one mile or less from a grocery store</li>
+<li><em><strong>40%</strong></em> are parents, while 15% are retired</li>
 </ul>
 </p>
 <p>Amazon launched its first Amazon Go store in Seatle, WA in January of 2018.  The Amazon-owned convenience stores allowed customers to walk in, pick items off the shelf, and then walk out without needing to checkout using a traditional cashier.  Amazon, however, owns the AI technology and has been unwilling to license the technology to other retailers.   In October of 2021, Instacart acquired Caper AI for $350 million.  Caper AI is a startup company that builds smart carts and cashier-less checkout technology.   Instacart’s acquisition of Caper Carts gives the organization an AI-driven competitive advantage over its competitors.  In addition to automatically recognizing items placed in the cart, Caper Carts can also sync with the grocery stores loyalty program allowing shoppers to take advantage of additional savings.  Caper Carts also use AI algorithms to push customized advertisements, recipes, and purchase suggestions to the shopper that appear on the tablet-sized screen on the cart.  Instacart’s Caper Carts also offer gamification features that give shoppers rewards for fulfilling certain shopping behaviors.</p>
