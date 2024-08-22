@@ -30,7 +30,8 @@
 ## Results
 <p>Instacart’s AI Caper Carts technology is shifting the in-store shopping experience and expectations of shoppers. The in-store technology is impacting consumers' grocery shopping spending and loyalty.  Grocers like Schnucks and Kroger report that the use of the Caper Cart technology in their stores has resulted in larger purchases by consumers.  According to data from the PYMNTS Intelligence study “2024 Global Digital Shopping Index: U.S. Edition,” created in collaboration with Visa Acceptance Solutions. The report, which drew from a survey of more than 2,400 United States consumers, found that approximately 20% of consumers surveyed prefer to shop in stores with the assistance of digital technologies.</p> 
 
-<p>Some of the core metrics that companies in this field use to measure success include average basket size, net promoter score, and time shoppers spend shopping.  Instacart’s Caper Cart technology performance in these core metrics is impressive.  Caper Cart technology increases the grocer’s basket size by 18%, boasts a net promoter score of 70+, and has a ~18% faster in-store experience.</p>   
+<p>Some of the core metrics that companies in this field use to measure success include average basket size, net promoter score, and time shoppers spend shopping.  Instacart’s Caper Cart technology performance in these core metrics is impressive.  Caper Cart technology increases the grocer’s basket size by 18%, boasts a net promoter score of 70+, and has a ~18% faster in-store experience.</p> 
+![Testing](AI Case Study_Market Share By Company.JPG "Market Share By Company")
 
 ## Recommendations
 
