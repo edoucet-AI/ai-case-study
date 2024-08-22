@@ -20,13 +20,13 @@
 
 <p>Learning from Amazon’s restrictive licensing model and expensive infrastructure retrofitting costs, Instacart has taken a different approach and has licensed the AI Caper Cart technology to several grocers and retail partners.  Some of the well-known retail partners that currently use Caper Carts include Kroger, Schucks, Sobeys, Geissler’s, Super Market, and Wakefern Food Corp.</p>  
 <p>Instacart is leveraging its Caper Cart technology to offer consumers an effortless and rewarding shopping experience through the use of its Caper Carts that calculates the total cost of all the items placed in the cart in real-time and displays the shopper's grocery items and total on an easy to use touch screen tablet that is built into the AI cart.  This technology allows shoppers to skip the checkout line.</p>   
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/oIKD3AdG-Yia-DAe/0.jpg)](https://youtu.be/uSbREMKZptg?si=oIKD3AdG-Yia-DAe))
- 
+(https://youtu.be/uSbREMKZptg?si=oIKD3AdG-Yia-DAe)
+
 ## Landscape
 <p>Instacart is a North American leader in online grocery delivery and is considered to be in the grocery industry. Instacart however has been expanding its brand by offering services like shoppable ads through its partnership with media platforms like YouTube to extend retail media data.  Instacart’s partnership with YouTube allows for shoppable ads to be created on YouTube that brands use to drive same-day purchases.   The Grocery industry has capitalized on some cutting-edge innovations and trends over the last 5 to 10 years.  In addition to online shopping, the grocery industry is also trending towards an overall improved in-store experience by leveraging AI technology like smart carts, digital price tags, and self-checkout.  Technology has helped grocery stores better serve customers by implementing automated inventory management systems that help meet consumer demand and more accurately predict consumer purchasing trends.</p> 
 
-<p>In the online grocery market, Instacart currently holds 21.6% of the market share.  Instacart however, has a few major competitors.  Walmart and Amazon own 25.7% and 22.0% of the market share respectively based on sales in 2024. 
-![Testing](https://github.com/edoucet-AI/ai-case-study/blob/f4a190c45f638e8cfcef9b26ea18aff22265dac6/AI%20Case%20Study_Market%20Share%20By%20Company.JPG "Testing")</p>
+<p>In the online grocery market, Instacart currently holds 21.6% of the market share.  Instacart however, has a few major competitors.  Walmart and Amazon own 25.7% and 22.0% of the market share respectively based on sales in 2024.</p> 
+![AI Case Study_Market Share By Company](https://github.com/user-attachments/assets/e9881936-7e5c-4080-9b8d-a01711018304)</p>
 
 ## Results
 <p>Instacart’s AI Caper Carts technology is shifting the in-store shopping experience and expectations of shoppers. The in-store technology is impacting consumers' grocery shopping spending and loyalty.  Grocers like Schnucks and Kroger report that the use of the Caper Cart technology in their stores has resulted in larger purchases by consumers.  According to data from the PYMNTS Intelligence study “2024 Global Digital Shopping Index: U.S. Edition,” created in collaboration with Visa Acceptance Solutions. The report, which drew from a survey of more than 2,400 United States consumers, found that approximately 20% of consumers surveyed prefer to shop in stores with the assistance of digital technologies.</p> 
