@@ -19,7 +19,10 @@
 <p>Amazon launched its first Amazon Go store in Seatle, WA in January of 2018.  The Amazon-owned convenience stores allowed customers to walk in, pick items off the shelf, and then walk out without needing to checkout using a traditional cashier.  Amazon, however, owns the AI technology and has been unwilling to license the technology to other retailers.   In October of 2021, Instacart acquired Caper AI for $350 million.  Caper AI is a startup company that builds smart carts and cashier-less checkout technology.   Instacart’s acquisition of Caper Carts gives the organization an AI-driven competitive advantage over its competitors.  In addition to automatically recognizing items placed in the cart, Caper Carts can also sync with the grocery stores loyalty program allowing shoppers to take advantage of additional savings.  Caper Carts also use AI algorithms to push customized advertisements, recipes, and purchase suggestions to the shopper that appear on the tablet-sized screen on the cart.  Instacart’s Caper Carts also offer gamification features that give shoppers rewards for fulfilling certain shopping behaviors.</p>
 
 <p>Learning from Amazon’s restrictive licensing model and expensive infrastructure retrofitting costs, Instacart has taken a different approach and has licensed the AI Caper Cart technology to several grocers and retail partners.  Some of the well-known retail partners that currently use Caper Carts include Kroger, Schucks, Sobeys, Geissler’s, Super Market, and Wakefern Food Corp.</p>  
-<p>Instacart is leveraging its Caper Cart technology to offer consumers an effortless and rewarding shopping experience through the use of its Caper Carts that calculates the total cost of all the items placed in the cart in real-time and displays the shopper's grocery items and total on an easy to use touch screen tablet that is built into the AI cart.  This technology allows shoppers to skip the checkout line.</p>   
+<p>Instacart is leveraging its Caper Cart technology to offer consumers an effortless and rewarding shopping experience through the use of its Caper Carts that calculates the total cost of all the items placed in the cart in real-time and displays the shopper's grocery items and total on an easy to use touch screen tablet that is built into the AI cart.  This technology allows shoppers to skip the checkout line.</p> 
+
+## Caper Cart Demo
+> Click on the video below to view a demo of the Caper Cart technology at Schucks.
 <p align="center">
 <a href="https://www.youtube.com/watch?v=uSbREMKZptg" target="_blank">
   <img src="https://img.youtube.com/vi/uSbREMKZptg/0.jpg" alt="Caper Cart Demo">
@@ -31,6 +34,7 @@
 
 <p>In the online grocery market, Instacart currently holds 21.6% of the market share.  Instacart however, has a few major competitors.  Walmart and Amazon own 25.7% and 22.0% of the market share respectively based on sales in 2024.</p> 
 
+> Chart of the Market Share by company sales for 2024
 <p align="center">
   <img src="AI Case Study_Market Share By Company.JPG" alt="Market Share By Company" width="1000"/>
 </p>  
@@ -42,7 +46,11 @@
 </p>
 
 ## Recommendations
-<p>The current Caper Cart model is great for consumers who do not have mobility restrictions.  If Instacart would design a Caper Cart model that allows customers with mobility issues to sit in a motorized cart while shopping that would widen their customer base to include more elderly consumers and consumers with other ailments that require assistance.</p>
+<p>The current Caper Cart model is great for consumers who do not have mobility restrictions.  I recommend that Instacart designs a Caper Cart model that allows customers with mobility issues to sit in a motorized cart while shopping which would widen their customer base to include more elderly consumers and consumers with other ailments that require assistance.</p>
+
+<p>Nearly all organizations strive to offer services and products that are ADA-compliant.  The Americans with Disabilities Act requires that technology be accessible to people with visual, manual, or hearing impairments.  While the AI technology in the Caper Carts is ADA compliant the height of the screen and the lack of a motorized alternative prohibits consumers who cannot walk while shopping from using the technology.  Instacart would benefit from developing a truly ADA-compliant Caper Cart because no other competitor offers a smart cart model that is specifically designed for consumers with mobility restrictions.</p>
+
+<p>Since the use of motorized carts for shopping is a necessity for some consumers, larger grocers must make these carts available to consumers.  Providing Instacart customers with a method to hold or reserve a motorized Caper Cart for their upcoming visit through their Instacart account would give consumers added assurances that a Caper Cart would be available when they arrived.</p>  
 
 # References
 <ol>
@@ -58,7 +66,7 @@
 
 <li>Ladd, B. (2019, January 17). To beat Amazon at its own game, retailers are turning to Caper, the AmazonGo experience in a cart. Forbes. Retrieved from https://www.forbes.com</li>
 
-<li>Yahoo is part of the Yahoo family of brands. (n.d.). Retrieved from https://finance.yahoo.com/news/instacart-ai-powered-smart-carts-191521559.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALDzX83aPp3CApiqTPdoaD0kzEQsqJA9hf-_Jw5-JBHQGLdlzhHqUqoiSAq21bx7sF4VE25PIlry9saSgZ7rwXy3jDJ3CnVh28cNiWcE6ohPF_xLiuoSBcsWPDGukDyZ7Nre8mwsjO1TRt3BeVV2a--3p3_W2BXdWeGeDI-OubcQ</li>
+<li>Yahoo is part of the Yahoo family of brands. (n.d.-b). Retrieved from https://finance.yahoo.com/news/instacart-ai-powered-smart-carts-191521559.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALDzX83aPp3CApiqTPdoaD0kzEQsqJA9hf-_Jw5-JBHQGLdlzhHqUqoiSAq21bx7sF4VE25PIlry9saSgZ7rwXy3jDJ3CnVh28cNiWcE6ohPF_xLiuoSBcsWPDGukDyZ7Nre8mwsjO1TRt3BeVV2a--3p3_W2BXdWeGeDI-OubcQ</li>
 
 <li>Lunden, I. (2021, October 19). Instacart acquires Caper AI, a smart cart and instant checkout startup, for $350M, as it moves deeper into physical retail tech. TechCrunch. Retrieved from https://techcrunch.com</li>
 
@@ -68,7 +76,9 @@
 
 <li>Pymnts. (2024, May 8). InstaCart: Grocery shoppers ditch merchants that don’t offer smart carts. Retrieved from https://www.pymnts.com/earnings/2024/instacart-grocery-shoppers-ditch-merchants-do-not-offer-smart-carts/</li>
 
-<li>Smart Grocery Cart | Smart Shopping Trolley | Caper. (n.d.). Retrieved from https://www.caper.ai/caper-smart-cart</li>
+<li>Smart Grocery Cart | Smart Shopping Trolley | Caper. (n.d.-c). Retrieved from https://www.caper.ai/caper-smart-cart</li>
+
+<li>Guidance on web accessibility and the ADA. (2024, August 19). Retrieved from https://www.ada.gov/resources/web-guidance/</li>
 </ol>
 
 
