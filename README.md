@@ -38,6 +38,7 @@ https://github.com/edoucet-AI/ai-case-study/commit/1ab5340ba9abca2753e422c131c29
 </p>
 
 ## Recommendations
+<p>The current Caper Cart model is great for consumers who do not have mobility restrictions.  If Caper Cart could design a model that allows customers with mobility issues to sit in a motorized cart while shopping that would widen their customer base to include more elderly consumers and consumers with other ailments that require assistance.</p>
 
 # References
 <ol>
