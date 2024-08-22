@@ -1,7 +1,7 @@
 # How AI-Powered Shopping Carts Are Revolutionizing The Consumer Shopping Experience
 ## Overview and Origin
 <p>Maplebear Inc. doing business as Instacart is an American delivery company headquartered in San Fransico, CA.  The company name is derived from the word Maple which represents Canada and the word Bear which represents the logo on the California State flag.</p> 
-<p>Instacart was founded in June 2012 by Apoorva Mehta.  Apoorva was born in 1986 in Jodhpur, India and moved to Hamilton, Ontario, Canada in 2000.  He graduated with a degree in electrical engineering from the University of Waterloo and founded Instacart at age</p>.
+<p>Instacart was founded in June 2012 by Apoorva Mehta.  Apoorva was born in 1986 in Jodhpur, India and moved to Hamilton, Ontario, Canada in 2000.  He graduated with a degree in electrical engineering from the University of Waterloo and founded Instacart at age.</p>
 <p>Founder Apoorva Mehta got the inspiration for the company while living in Canada without a car, being low on groceries, and experiencing traveling by bus to the grocery store.  Apoorva initially secured 2.3 million in funding from Y Combinator in the summer of 2012 which enabled him to meet his two co-founders Max Mullen and Brandon Leonardo and in September of 2023, the company raised $600 million in its initial public offering. </p>
 
 ## Business Activities
@@ -28,13 +28,13 @@
 <p>In the online grocery market, Instacart currently holds 21.6% of the market share.  Instacart however, has a few major competitors.  Walmart and Amazon own 25.7% and 22.0% of the market share respectively based on sales in 2024.</p>  
 
 ## Results
-<p>Instacart’s AI Caper Carts technology is shifting the in-store shopping experience and expectations of shopper.   The in-store technology is impacting consumers' grocery shopping spending and loyalty.  Grocers like Schnucks and Kroger report that the use of the Caper Cart technology in their stores has resulted in larger purchases by consumers.  According to data from the PYMNTS Intelligence study “2024 Global Digital Shopping Index: U.S. Edition,” created in collaboration with Visa Acceptance Solutions. The report, which drew from a survey of more than 2,400 United States consumers, found that approximately 20% of consumers surveyed prefer to shop in stores with the assistance of digital technologies.</p> 
+<p>Instacart’s AI Caper Carts technology is shifting the in-store shopping experience and expectations of shoppers. The in-store technology is impacting consumers' grocery shopping spending and loyalty.  Grocers like Schnucks and Kroger report that the use of the Caper Cart technology in their stores has resulted in larger purchases by consumers.  According to data from the PYMNTS Intelligence study “2024 Global Digital Shopping Index: U.S. Edition,” created in collaboration with Visa Acceptance Solutions. The report, which drew from a survey of more than 2,400 United States consumers, found that approximately 20% of consumers surveyed prefer to shop in stores with the assistance of digital technologies.</p> 
 
-<p>Some of the core metrics that companies in this field use to measure success include average basket size, net promoter score, and time shoppers spend shopping.  Instacart’s Caper Cart technology performance in these core metrics are impressive.  Caper Cart technology increases the grocer’s basket size by 18%, boasts a net promoter score of 70+, and has a ~18% faster in-store experience.</p>   
+<p>Some of the core metrics that companies in this field use to measure success include average basket size, net promoter score, and time shoppers spend shopping.  Instacart’s Caper Cart technology performance in these core metrics is impressive.  Caper Cart technology increases the grocer’s basket size by 18%, boasts a net promoter score of 70+, and has a ~18% faster in-store experience.</p>   
 
 ## Recommendations
 
-#References
+# References
 <ol>
 <li>Wikipedia contributors. (2024, August 20). Instacart. Retrieved from https://en.wikipedia.org/wiki/Instacart</li>
 
