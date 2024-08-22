@@ -20,9 +20,11 @@
 
 <p>Learning from Amazon’s restrictive licensing model and expensive infrastructure retrofitting costs, Instacart has taken a different approach and has licensed the AI Caper Cart technology to several grocers and retail partners.  Some of the well-known retail partners that currently use Caper Carts include Kroger, Schucks, Sobeys, Geissler’s, Super Market, and Wakefern Food Corp.</p>  
 <p>Instacart is leveraging its Caper Cart technology to offer consumers an effortless and rewarding shopping experience through the use of its Caper Carts that calculates the total cost of all the items placed in the cart in real-time and displays the shopper's grocery items and total on an easy to use touch screen tablet that is built into the AI cart.  This technology allows shoppers to skip the checkout line.</p>   
+<p align="center">
 <a href="https://www.youtube.com/watch?v=uSbREMKZptg" target="_blank">
   <img src="https://img.youtube.com/vi/uSbREMKZptg/0.jpg" alt="Caper Cart Demo">
 </a>
+</p> 
 
 ## Landscape
 <p>Instacart is a North American leader in online grocery delivery and is considered to be in the grocery industry. Instacart however has been expanding its brand by offering services like shoppable ads through its partnership with media platforms like YouTube to extend retail media data.  Instacart’s partnership with YouTube allows for shoppable ads to be created on YouTube that brands use to drive same-day purchases.   The Grocery industry has capitalized on some cutting-edge innovations and trends over the last 5 to 10 years.  In addition to online shopping, the grocery industry is also trending towards an overall improved in-store experience by leveraging AI technology like smart carts, digital price tags, and self-checkout.  Technology has helped grocery stores better serve customers by implementing automated inventory management systems that help meet consumer demand and more accurately predict consumer purchasing trends.</p> 
